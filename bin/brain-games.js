@@ -1,5 +1,6 @@
 #!/usr/bin/env node
-import { NameQuastion } from "./../src/cli.js";
+import NameQuestion from '../src/cli.js';
 
-console.log("Welcome to the Brain Games!");
-NameQuastion();
+console.log('Welcome to the Brain Games!');
+
+NameQuestion();
