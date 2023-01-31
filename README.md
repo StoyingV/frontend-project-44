@@ -7,3 +7,7 @@ href="https://codeclimate.com/github/StoyingV/frontend-project-44/maintainabilit
 
 Ссылка на пример работы программы проверки на четность:
 https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
+
+Link to the asciinema for Brain Calculator game:
+https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj
+
