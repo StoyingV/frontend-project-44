@@ -11,3 +11,7 @@ https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
 Link to the asciinema for Brain Calculator game:
 https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj
 
+Link to the asciinema for Brain Greatest Common Devider:
+https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF
+
+
