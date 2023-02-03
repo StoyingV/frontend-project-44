@@ -5,7 +5,7 @@
 href="https://codeclimate.com/github/StoyingV/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/5f3d0c78d34f65b6212f/maintainability"
 
 
-Ссылка на пример работы программы проверки на четность:
+Link to the asciinema for Brain Even:
 https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
 
 Link to the asciinema for Brain Calculator game:
@@ -13,5 +13,9 @@ https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj
 
 Link to the asciinema for Brain Greatest Common Devider:
 https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF
+
+Link to the asciinema for Brain Progression:
+https://asciinema.org/a/SEfE8VfvZXLwald7FocloBJ36
+
 
 
