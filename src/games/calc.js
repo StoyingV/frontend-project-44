@@ -6,7 +6,7 @@ const operator = ['+', '-', '*'];
 const brainCalc = () => {
   console.log('Welcome to the Brain Games!');
   const userName = readlineSync.question('May I have your name? ');
-  console.log(`Hello ${userName}!`);
+  console.log(`Hello, ${userName}!`);
   let looseMarker = 0;
   for (let i = 0; i < 3; i += 1) {
     const operatorNumber = Math.round(Math.random() * 2);
