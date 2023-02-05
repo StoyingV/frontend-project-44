@@ -17,5 +17,9 @@ https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF
 Link to the asciinema for Brain Progression:
 https://asciinema.org/a/SEfE8VfvZXLwald7FocloBJ36
 
+Link to the asciinema for Brain Prime:
+https://asciinema.org/a/ywOQb2vIanvrhcFjUHcobUR0t
+
+
 
 
