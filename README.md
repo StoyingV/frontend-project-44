@@ -13,7 +13,7 @@
 Brain Games is a similar package programm
 It was made for educational reasons, most reason was to improve developer skills.
 
-You can check your matematic capabilities
+**_You can check your matematic capabilities_**
 
 
 ## **Setup Guide**
