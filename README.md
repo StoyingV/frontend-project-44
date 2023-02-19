@@ -3,6 +3,9 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/StoyingV/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/StoyingV/frontend-project-44/actions)
+Ссылка на Code Climate:
+<a> href="https://codeclimate.com/github/StoyingV/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/5f3d0c78d34f65b6212f/maintainability" </a>
+
 
 ## Description
 Brain Games is a similar package programm
@@ -17,7 +20,7 @@ You can check your matematic capabilities
 git clone git@github.com:StoyingV/frontend-project-44.git
 ```
 2) Установите зависсимости
-Если Вы мспользуете утилиту _make_ введите команду
+Если Вы используете утилиту _make_ введите команду
 ```
 make install
 ```
@@ -42,10 +45,9 @@ brain-prime // запустит игру на проверку чисел на �
 
 
 
-Ссылка на Code Climate:
-href="https://codeclimate.com/github/StoyingV/frontend-project-44/maintainability"><img src="https://api.codeclimate.com/v1/badges/5f3d0c78d34f65b6212f/maintainability"
 
 
+## Example s of work
 Link to the asciinema for Brain Even:
 https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
 
