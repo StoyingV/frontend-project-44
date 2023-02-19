@@ -3,7 +3,7 @@
 
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/StoyingV/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/StoyingV/frontend-project-44/actions)
-<img src=@\"https://img.shields.io/github/downloads/StoyingV/frontend-project-44/total">
+<img src="https://img.shields.io/github/downloads/StoyingV/frontend-project-44/total">
 
 
 ## Description
