@@ -4,11 +4,42 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/StoyingV/frontend-project-44/workflows/hexlet-check/badge.svg)](https://github.com/StoyingV/frontend-project-44/actions)
 
+## Description
+Brain Games is a similar package programm
+It was made for educational reasons, most reason was to improve developer skills.
+
+You can check your matematic capabilities
+
+
 ## **Setup Guide**
 1) Клонируйте репозитарий на своё устройство
 ```
 git clone git@github.com:StoyingV/frontend-project-44.git
 ```
+2) Установите зависсимости
+Если Вы мспользуете утилиту _make_ введите команду
+```
+make install
+```
+если Вы не используете утилиту _make_ убедитесь что у вас установлен менеджер пактеов _npm_
+```
+npm -v
+```
+введите команду
+```
+sudo npm ci
+```
+
+Для запуска приложения Вы можете ввести разные команды в зависимости от желаемой игры
+```
+brain-games //запустит приветствие
+brain-even // запустит игру на проверку чисел на четность
+brain-calc// запустит игру на умение считать в уме
+brain-gcd// запустит игру на поиск наиболбшего общего делителя для пары чисел
+brain-progression// запустит игру на поиск модуля арифметической прогрессии
+brain-prime // запустит игру на проверку чисел на их принадлежность к множеству простых чисел
+```
+
 
 
 Ссылка на Code Climate:
