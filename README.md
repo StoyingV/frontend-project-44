@@ -49,7 +49,7 @@ brain-prime // запустит игру на проверку чисел на �
 
 
 
-## Example s of work
+## Example of work
 Link to the asciinema for Brain Even:
 https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
 
