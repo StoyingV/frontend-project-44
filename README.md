@@ -17,32 +17,32 @@ It was made for educational reasons, most reason was to improve developer skills
 
 
 ## **Setup Guide**
-1) Клонируйте репозитарий на своё устройство
+1) Clone repositary on your PC
 ```
 git clone git@github.com:StoyingV/frontend-project-44.git
 ```
-2) Установите зависсимости
-Если Вы используете утилиту _make_ введите команду
+2) Install dependesys
+If you are using utilit  _make_ type command
 ```
 make install
 ```
-если Вы не используете утилиту _make_ убедитесь что у вас установлен менеджер пактеов _npm_
+If you do not use utilit _make_ , make sure that you have insalled package maneger _npm_
 ```
 npm -v
 ```
-введите команду
+than type command
 ```
 sudo npm ci
 ```
 
-Для запуска приложения Вы можете ввести разные команды в зависимости от желаемой игры
+For runing you are able to use different commands, depends on game you are interested. Look below
 ```
-brain-games //запустит приветствие
-brain-even // запустит игру на проверку чисел на четность
-brain-calc// запустит игру на умение считать в уме
-brain-gcd// запустит игру на поиск наиболбшего общего делителя для пары чисел
-brain-progression// запустит игру на поиск модуля арифметической прогрессии
-brain-prime // запустит игру на проверку чисел на их принадлежность к множеству простых чисел
+brain-games //run greeting
+brain-even // run checking even numbers game
+brain-calc// run calculation game
+brain-gcd// run looking for greatest common devider
+brain-progression// run progression module game
+brain-prime // run cheking primery of numbers game
 ```
 
 
