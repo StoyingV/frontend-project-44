@@ -50,20 +50,20 @@ brain-prime // run cheking primery of numbers game
 
 
 ## Example of work
-Link to the asciinema for Brain Even:
-https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs
+Brain Even:
+[![asciicast](https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs.svg)](https://asciinema.org/a/EKUJcgjSnPzefIK4fKJsPMABs)
 
-Link to the asciinema for Brain Calculator game:
-https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj
+Brain Calculator game:
+[![asciicast](https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj.svg)](https://asciinema.org/a/buYMyZqnXsd76WZ0H4JD12Jxj)
 
-Link to the asciinema for Brain Greatest Common Devider:
-https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF
+Brain Greatest Common Devider:
+[![asciicast](https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF.svg)](https://asciinema.org/a/cXUiUIeg7jYu0PSvKNQHiIRjF)
 
-Link to the asciinema for Brain Progression:
-https://asciinema.org/a/SEfE8VfvZXLwald7FocloBJ36
+Brain Progression:
+[![asciicast](https://asciinema.org/a/SEfE8VfvZXLwald7FocloBJ36.svg)](https://asciinema.org/a/SEfE8VfvZXLwald7FocloBJ36)
 
-Link to the asciinema for Brain Prime:
-https://asciinema.org/a/ywOQb2vIanvrhcFjUHcobUR0t
+Brain Prime:
+[![asciicast](https://asciinema.org/a/ywOQb2vIanvrhcFjUHcobUR0t.svg)](https://asciinema.org/a/ywOQb2vIanvrhcFjUHcobUR0t)
 
 
 
