@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "version": "1.0.0",
-  "description": "This package was made for educational ourpose. The main target is to improve developer skills of author. But pleasent by-effect is that user can play and check his mathematical skills",
+  "description": "This package was made for educational purpose. The main target is to improve developer skills of author. But pleasent by-effect is that user can play and check his mathematical skills",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
