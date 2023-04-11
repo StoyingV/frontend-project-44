@@ -27,5 +27,3 @@ const generateRound = () => {
 const runGcd = () => runEngine(rules, generateRound);
 
 export default runGcd;
-
-runGcd();
