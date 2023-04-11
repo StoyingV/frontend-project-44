@@ -28,5 +28,3 @@ const generateRound = () => {
 const runPrime = () => runEngine(rules, generateRound);
 
 export default runPrime;
-
-runPrime();
